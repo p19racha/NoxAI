@@ -87,8 +87,8 @@ nox-assistant/
 
 #### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/nox-assistant.git
-cd nox-assistant
+git clone https://github.com/p19racha/NoxAI.git
+cd NoxAI
 ```
 
 #### 2. Create a virtual environment

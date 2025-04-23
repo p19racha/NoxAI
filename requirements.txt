@@ -1,0 +1,5 @@
+pvporcupine
+pyaudio
+whisper
+pyttsx3
+scipy
